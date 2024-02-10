@@ -1,0 +1,10 @@
+ctransformers
+faiss-cpu
+langchain==0.1.5
+pypdf
+python-box
+sentence-transformers
+gradio
+datasets
+openai
+ragas
